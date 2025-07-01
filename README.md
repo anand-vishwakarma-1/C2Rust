@@ -100,8 +100,8 @@ Follow these steps to replicate the full pipeline:
 ### 1. Clone This Repository
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone [repo](https://github.com/anand-vishwakarma-1/C2Rust.git)
+cd C2Rust
 ```
 
 ### 2. Download CRUST-bench Dataset
